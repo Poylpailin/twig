@@ -1,0 +1,15 @@
+{
+    "name": "poylpailin/twig-a2",
+    "description": "My first Twig Engine Template",
+    "require": {
+        "twig/twig": "1.16.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delphine IDIART",
+            "email": "idiart.delphine@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
